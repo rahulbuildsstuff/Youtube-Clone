@@ -27,7 +27,7 @@ Dark Mode Theme
 -> Notification system
 
 👨‍💻 Author
-Sumrit Singh
+Rahul Nalla
 
 📄 License
 This project is created for educational purposes only and is not affiliated with YouTube or Google.
